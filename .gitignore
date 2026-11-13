@@ -45,3 +45,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Any secrets.toml, wherever it sits
+secrets.toml
